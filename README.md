@@ -91,7 +91,7 @@
     [![Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://i.ytimg.com/vi/dap6yIe1uK4/mqdefault.jpg)](https://youtu.be/dap6yIe1uK4)
 
 ---
-## **BONUS!**
+## **RANDOM BONUS!**
 - ***21 Awesome Web Features you’re not using yet***
 
     [![21 Awesome Web Features you’re not using yet](https://i.ytimg.com/vi/q1fsBWLpYW4/mqdefault.jpg)](https://youtu.be/q1fsBWLpYW4)
