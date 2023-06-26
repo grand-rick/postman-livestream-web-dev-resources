@@ -31,6 +31,7 @@
 <h2 style="font-weight: bold" id="single-page-applications">
     Single Page Applications
 </h2>
+
 > A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
 
 <p align="center">
@@ -63,6 +64,7 @@
 <h2 style="font-weight: bold" id="progressive-web-apps">
     Progressive Web Apps
 </h2>
+
 > A Progressive Web App (PWA) is a web application that uses modern web technologies to provide a native app-like experience to users.
 
 <p align="center">
