@@ -2,9 +2,9 @@
 
 ## Content Table
 
-1. **Responsive Web Design**
-1. **Single Page Applications**
-1. **Progressive Web Apps**
+1. [**Responsive Web Design**](#responsive-web-design)
+1. [**Single Page Applications**](#single-page-applications)
+1. [**Progressive Web Apps**](#progressive-web-apps)
 
 ## **Responsive Web Design**
 > Responsive web design refers to an approach in web development that aims to create websites that adapt and respond to the user's device and screen size. 
@@ -23,7 +23,9 @@
 
 ---
 
-## **Single Page Applications**
+<h2 style="font-weight: bold" id="single-page-applications">
+    Single Page Applications
+</h2>
 > A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
 
 <p align="center">
@@ -41,10 +43,13 @@
 ### Some helpful video resources on Progressive Web Apps
 - [What Is A Single Page Application?](https://youtu.be/xfGciVdbktI)
 - [Build a Single Page Application with JavaScript (No Frameworks)](https://youtu.be/6BozpmSjk-Y)
+[Single Page Application Rendering | Fireship](https://youtu.be/Dkx5ydvtpCA?t=110)
 
 ---
 
-## **Progressive Web Apps**
+<h2 style="font-weight: bold" id="progressive-web-apps">
+    Progressive Web Apps
+</h2>
 > A Progressive Web App (PWA) is a web application that uses modern web technologies to provide a native app-like experience to users.
 
 <p align="center">
@@ -61,3 +66,7 @@
 - [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://youtu.be/sFsRylCQblw)
 - [PWA Tutorial for Beginners #1 - What Are PWA's?](https://youtu.be/4XT23X0Fjfk)
 - [Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://youtu.be/dap6yIe1uK4)
+
+<h3 align="center">
+    Made with ❤ by <a href="https://github.com/grand-rick001">Patrick</a>
+</h3>
