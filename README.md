@@ -18,8 +18,13 @@
 - [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
 
 ### Some helpful video resources on responsive web design
-- [Introduction to Responsive Web Design - HTML & CSS Tutorial (Free Code Camp)](https://youtu.be/srvUrASNj0s)
-- [Responsive Web Design | 10 principles](https://youtu.be/zF6VSky4SIc)
+- ***Introduction to Responsive Web Design - HTML & CSS Tutorial (Free Code Camp)***
+    
+    [![Introduction to Responsive Web Design - HTML & CSS Tutorial (Free Code Camp)](https://i.ytimg.com/vi/srvUrASNj0s/mqdefault.jpg)](https://youtu.be/srvUrASNj0s)
+
+- ***Responsive Web Design | 10 principles***
+    
+    [![Responsive Web Design | 10 principles](https://i.ytimg.com/vi/zF6VSky4SIc/mqdefault.jpg)](https://youtu.be/zF6VSky4SIc)
 
 ---
 
@@ -41,9 +46,17 @@
 
 
 ### Some helpful video resources on Progressive Web Apps
-- [What Is A Single Page Application?](https://youtu.be/xfGciVdbktI)
-- [Build a Single Page Application with JavaScript (No Frameworks)](https://youtu.be/6BozpmSjk-Y)
-[Single Page Application Rendering | Fireship](https://youtu.be/Dkx5ydvtpCA?t=110)
+- ***What Is A Single Page Application?***
+
+    [![What Is A Single Page Application?](https://i.ytimg.com/vi/xfGciVdbktI/mqdefault.jpg)](https://youtu.be/xfGciVdbktI)
+
+- ***Build a Single Page Application with JavaScript (No Frameworks)***
+
+    [![Build a Single Page Application with JavaScript (No Frameworks)](https://i.ytimg.com/vi/6BozpmSjk-Y/mqdefault.jpg)](https://youtu.be/6BozpmSjk-Y)
+
+- ***Single Page Application Rendering | Fireship***
+
+    [![Single Page Application Rendering | Fireship](https://i.ytimg.com/vi/Dkx5ydvtpCA/mqdefault.jpg)](https://youtu.be/Dkx5ydvtpCA?t=110)
 
 ---
 
@@ -63,10 +76,24 @@
 - [Getting Started with PWAs | Chrome Developers](https://developer.chrome.com/blog/getting-started-pwa/)
 
 ### Some helpful video resources on Progressive Web Apps
-- [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://youtu.be/sFsRylCQblw)
-- [PWA Tutorial for Beginners #1 - What Are PWA's?](https://youtu.be/4XT23X0Fjfk)
-- [Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://youtu.be/dap6yIe1uK4)
+- ***Progressive Web Apps in 100 Seconds // Build a PWA from Scratch***
 
+    [![Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://i.ytimg.com/vi/sFsRylCQblw/mqdefault.jpg)](https://youtu.be/sFsRylCQblw)
+
+- ***PWA Tutorial for Beginners #1 - What Are PWA's?***
+
+    [![PWA Tutorial for Beginners #1 - What Are PWA's?](https://i.ytimg.com/vi/4XT23X0Fjfk/mqdefault.jpg)](https://youtu.be/4XT23X0Fjfk)
+
+- ***Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started***
+
+    [![Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://i.ytimg.com/vi/dap6yIe1uK4/mqdefault.jpg)](https://youtu.be/dap6yIe1uK4)
+
+---
+## **BONUS!**
+- ***21 Awesome Web Features you’re not using yet***
+
+    [![21 Awesome Web Features you’re not using yet](https://i.ytimg.com/vi/q1fsBWLpYW4/mqdefault.jpg)](https://youtu.be/q1fsBWLpYW4)
+---
 <h3 align="center">
     Made with ❤ by <a href="https://github.com/grand-rick001">Patrick</a>
 </h3>
