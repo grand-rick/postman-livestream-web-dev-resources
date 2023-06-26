@@ -7,7 +7,8 @@
 1. [**Progressive Web Apps**](#progressive-web-apps)
 
 ## **Responsive Web Design**
-> Responsive web design refers to an approach in web development that aims to create websites that adapt and respond to the user's device and screen size. 
+> Responsive web design refers to an approach in web development that aims to create websites that adapt and respond to the user's device and screen size.
+With the increasing use of mobile devices and tablets to access the internet, it has become essential for websites to provide an optimal viewing and interaction experience across various devices.
 
 <p align="center">
     <img src="https://cdn.pixabay.com/photo/2018/05/04/20/01/website-3374825_640.jpg" alt="responsive site" />
@@ -32,7 +33,7 @@
     Single Page Applications
 </h2>
 
-> A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
+> Single Page Applications are web applications that load and run entirely within a single web page, eliminating the need for page reloads or full page transitions. 
 
 <p align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pmY3Tn9FP6H897zs2XdPmQHaD-%26pid%3DApi&f=1&ipt=4f5c87dbf67d6e00b5f7beab6c3162fb789a838c7972eeaccbcaac53537c7754&ipo=images" alt="single page applications" />
