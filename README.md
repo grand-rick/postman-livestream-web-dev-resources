@@ -92,6 +92,14 @@ With the increasing use of mobile devices and tablets to access the internet, it
     [![Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://i.ytimg.com/vi/dap6yIe1uK4/mqdefault.jpg)](https://youtu.be/dap6yIe1uK4)
 
 ---
+
+## **Additional resources to help in your web development journey**
+- [Frontend masters free web dev bootcamp: ](https://frontendmasters.com/bootcamp)
+- [Microsoft's Free Web dev course for beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
+- [Free Code camp’s responsive web design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Modern JavaScript Tutorial](https://javascript.info/)
+- [Learn JavaScript with Wes Bos ](https://javascript30.com/)
+
 ## **BONUS!**
 - ***21 Awesome Web Features you’re not using yet***
 
