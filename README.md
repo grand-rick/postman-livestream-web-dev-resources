@@ -102,7 +102,7 @@ With the increasing use of mobile devices and tablets to access the internet, it
 </h3>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg4MGszZDlqOWZ0dWhvMXF4NzVkbTJmMmRzbjRyNm5zYXJibGxqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaBU6pgv0OsPHz2yxy/giphy.gif" alt="goodbye" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljOGdqZDVieHV6c2hjY2RranN1dWh2MmhzbWs3ZDI1OTU0ZTh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2YWkS9pvXKmMnc1a/giphy.gif" alt="goodbye" />
 
     Until next time!
 </div>
