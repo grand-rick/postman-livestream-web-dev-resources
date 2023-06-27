@@ -101,7 +101,7 @@ With the increasing use of mobile devices and tablets to access the internet, it
 - [Learn JavaScript with Wes Bos | 30 days of building 30 things with 30 tutorials ](https://javascript30.com/)
 
 ## **BONUS!**
-- ***21 Awesome Web Features you’re not using yet***
+- ***Check out these web features***
 
     [![21 Awesome Web Features you’re not using yet](https://i.ytimg.com/vi/q1fsBWLpYW4/mqdefault.jpg)](https://youtu.be/q1fsBWLpYW4)
 ---
