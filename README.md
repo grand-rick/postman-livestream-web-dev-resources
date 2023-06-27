@@ -101,6 +101,8 @@ With the increasing use of mobile devices and tablets to access the internet, it
     Made with ❤ by <a href="https://github.com/grand-rick001">Patrick</a>
 </h3>
 
-<p align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg4MGszZDlqOWZ0dWhvMXF4NzVkbTJmMmRzbjRyNm5zYXJibGxqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaBU6pgv0OsPHz2yxy/giphy.gif" alt="goodbye" />
-</p>
+
+    Until next time!
+</div>
