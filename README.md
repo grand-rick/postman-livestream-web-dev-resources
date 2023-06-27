@@ -1,6 +1,6 @@
 # **Postman Livestream Web Dev Resources**
 
-## Content Table
+## **Table of Contents**
 
 1. [**Responsive Web Design**](#responsive-web-design)
 1. [**Single Page Applications**](#single-page-applications)
