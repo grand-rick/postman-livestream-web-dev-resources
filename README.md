@@ -97,7 +97,7 @@ With the increasing use of mobile devices and tablets to access the internet, it
 - [Frontend masters free web dev bootcamp](https://frontendmasters.com/bootcamp)
 - [Microsoft's Free Web dev course for beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
 - [Free Code camp’s responsive web design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- [Modern JavaScript Tutorial](https://javascript.info/)
+- [Modern JavaScript Tutorial 🔥🔥](https://javascript.info/)
 - [Learn JavaScript with Wes Bos | 30 days of building 30 things with 30 tutorials ](https://javascript30.com/)
 
 ## **BONUS!**
