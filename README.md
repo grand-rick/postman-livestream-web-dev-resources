@@ -102,7 +102,7 @@ With the increasing use of mobile devices and tablets to access the internet, it
 </h3>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3oGNDMN6Aijhen18yY/giphy.gif" alt="goodbye" />
+    <img src="https://i.giphy.com/media/3oGNDMN6Aijhen18yY/giphy.webp" alt="goodbye" />
 </div>
 <h2 style="font-weight: bold; font-size: 48px" align="center">
     Until next time!
